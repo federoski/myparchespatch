@@ -1,13 +1,13 @@
 {
     "patches": [
         {
-            "id": "dlc1_content",
-            "name": "DLC 1 - Contenido Extra",
-            "description": "Añade nuevas escenas y contenido exclusivo",
+            "id": "dlc_1",
+            "name": "DLC 1 - Contenido Extra", 
+            "description": "Añade 3 nuevas escenas y personajes",
             "version": "1.1.0",
             "min_version": "1.0.0",
             "type": "dlc",
-            "download_url": "https://drive.google.com/uc?export=download&id=1gHAvJn9JCXvoBBsJoMnG8ECwFsWjFSXS",
+            "file_id": "1LE5NDBgluX5k-iaTHF-17ok33y_posJT",
             "changes": {
                 "add_files": [
                     "game/dlc1.rpy"
@@ -16,9 +16,27 @@
                     "install_dlc.py"
                 ],
                 "summary": [
-                    "Nuevas escenas con personajes exclusivos",
-                    "Fondos y música adicionales",
-                    "Logros desbloqueables"
+                    "3 nuevas escenas con María",
+                    "Fondos exclusivos",
+                    "Logro 'Explorador DLC'"
+                ]
+            }
+        },
+        {
+            "id": "bugfix_1", 
+            "name": "Parche de corrección",
+            "description": "Corrige errores reportados",
+            "version": "1.0.1",
+            "min_version": "1.0.0",
+            "type": "bug_fix", 
+            "file_id": "1ABC123def456GHI789jkl",
+            "changes": {
+                "replace_files": [
+                    "game/script_ch3.rpy"
+                ],
+                "summary": [
+                    "Corregido bug en diálogo capítulo 3",
+                    "Mejorada estabilidad"
                 ]
             }
         }
