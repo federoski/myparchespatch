@@ -1,8 +1,8 @@
 {
     "patches": [
         {
-            "id": "dlc_1",
-            "name": "Actualización a v1.1.0 + DLC",
+            "id": "update_1.1.0",
+            "name": "Actualización a v1.1.0 + DLC 1",
             "description": "Actualiza el juego a versión 1.1.0 y añade contenido extra",
             "version": "1.1.0",
             "min_version": "1.0.0",
@@ -13,15 +13,15 @@
                     "game/dlc1.rpy"
                 ],
                 "run_scripts": [
+                    "install_dlc.py",
                     "update_version.py"
                 ],
                 "summary": [
                     "Actualiza juego a versión 1.1.0",
-                    "Nuevas escenas añadidas", 
-                    "Contenido exclusivo DLC"
+                    "Añade DLC 1 con nuevas escenas",
+                    "Sistema de DLC integrado"
                 ]
             }
         }
     ]
 }
-
