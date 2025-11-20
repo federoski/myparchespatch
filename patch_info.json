@@ -2,9 +2,9 @@
     "patches": [
         {
             "id": "update_1.2.0",
-            "name": "Actualizacion 1.1.2",
+            "name": "Actualizacion 1.1.1",
             "description": "Arreglos, añadidos y mejoras.",
-            "version": "1.1.2",
+            "version": "1.1.1",
             "min_version": "1.0.0",
             "type": "update",
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.zip",
@@ -59,6 +59,7 @@
         }
     ]
 }
+
 
 
 
