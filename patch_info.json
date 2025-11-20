@@ -2,32 +2,27 @@
     "patches": [
         {
             "id": "update_1.1.0",
-            "name": "Actualización a v1.1.0",
+            "name": "Actualizacion a v1.1.0",
             "description": "Actualiza pantallas y contenido",
             "version": "1.1.0", 
             "min_version": "1.0.0",
             "type": "update",
-            "file_id": "",
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/dlc_patch2.zip",
             "changes": {
                 "replace_files": [
-                    "screens.rpy",
-                    "menudlc"
+                    "screens.rpy"
+                ],
+                "add_files": [
+                    "menudlc.rpy"
                 ],
                 "run_scripts": [
                     "install_dlc.py"
                 ],
                 "summary": [
-                    "Actualiza pantallas principales", 
-                    "Añade nuevas opciones de menú"
+                    "Actualiza pantallas principales",
+                    "Anade nuevo menu DLC"
                 ]
             }
         }
     ]
 }
-
-
-
-
-
-
