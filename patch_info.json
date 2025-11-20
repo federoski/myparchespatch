@@ -13,7 +13,8 @@
                     "screens.rpy"
                 ],
                 "add_files": [
-                    "menudlc.rpy"
+                    "menudlc.rpy",
+                    "menucapitulos"
                 ],
                 "run_scripts": [
                     "install_dlc.py"
@@ -60,4 +61,5 @@
         }
     ]
 }
+
 
