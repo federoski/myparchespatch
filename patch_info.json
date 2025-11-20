@@ -40,13 +40,14 @@
             "release_date": "05/11/25",
             "changes": [
                 "Versión inicial del juego",
-                "Historia principal completa",
-                "Sistema de logros"
+                "El orfanato completado",
+                "Sistema de logros implementado"
             ],
             "patch_notes": "Lanzamiento oficial."
         }
     ]
 }
+
 
 
 
