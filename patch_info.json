@@ -8,7 +8,7 @@
             "min_version": "1.0.0",
             "type": "update",
             "file_id": "",
-            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/dlc_patch.zip",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/dlc_patch2.zip",
             "changes": {
                 "replace_files": [
                     "game/screens.rpy"
@@ -24,5 +24,6 @@
         }
     ]
 }
+
 
 
