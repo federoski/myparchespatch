@@ -6,7 +6,7 @@
             "description": "Actualiza el juego a versión 1.1.0 y añade contenido extra",
             "version": "1.1.0",
             "min_version": "1.0.0",
-            "type": "update",
+            "type": "Actualizacion",
             "file_id": "1tcdvoF0FzoFkFDwJQ01CmwryVUTTcaFq",
             "changes": {
                 "add_files": [
@@ -25,3 +25,4 @@
         }
     ]
 }
+
