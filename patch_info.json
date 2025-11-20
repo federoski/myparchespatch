@@ -4,7 +4,7 @@
             "id": "update_1.2.0",
             "name": "Actualización a v1.2.0",
             "description": "Nuevas características y mejoras",
-            "version": "1.2.0",
+            "version": "1.1.0",
             "min_version": "1.0.0",
             "type": "update",
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.zip",
@@ -27,39 +27,27 @@
             }
         }
     ],
-    "version_history": [
-        {
-            "version": "1.2.0",
-            "release_date": "2024-01-15",
-            "changes": [
-                "Nuevo sistema de logros",
-                "Mejoras en la interfaz de usuario", 
-                "Corrección de errores menores",
-                "Optimización de rendimiento"
-            ],
-            "patch_notes": "Esta actualización introduce un sistema completo de logros y diversas mejoras en la experiencia del usuario."
-        },
         {
             "version": "1.1.0",
-            "release_date": "2024-01-10",
+            "release_date": "20/11/25",
             "changes": [
-                "Menú DLC integrado",
-                "Nuevas pantallas de configuración",
-                "Sistema de parches automático"
+                "Menú DLC",
+                "Menú Capítulos",
             ],
             "patch_notes": "Implementación del sistema DLC y mejoras en la interfaz."
         },
         {
             "version": "1.0.0",
-            "release_date": "2024-01-01", 
+            "release_date": "05/11/25", 
             "changes": [
                 "Versión inicial del juego",
                 "Historia principal completa",
-                "Sistema básico de guardado"
+                "Sistema de logros"
             ],
-            "patch_notes": "Lanzamiento inicial con todas las funciones básicas."
+            "patch_notes": "Lanzamiento oficial."
         }
     ]
 }
+
 
 
