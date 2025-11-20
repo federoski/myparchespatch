@@ -11,7 +11,8 @@
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/dlc_patch2.zip",
             "changes": {
                 "replace_files": [
-                    "screens.rpy"
+                    "screens.rpy",
+                    "menudlc"
                 ],
                 "run_scripts": [
                     "install_dlc.py"
@@ -24,6 +25,7 @@
         }
     ]
 }
+
 
 
 
