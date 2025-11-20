@@ -13,17 +13,14 @@
                 "replace_files": [
                     "game/screens.rpy"
                 ],
+                "run_scripts": [
+                    "install_dlc.py"
+                ],
                 "summary": [
-                    "Actualiza pantallas principales",
+                    "Actualiza pantallas principales", 
                     "Añade nuevas opciones de menú"
                 ]
             }
         }
     ]
 }
-
-
-
-
-
-
