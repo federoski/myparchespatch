@@ -1,10 +1,10 @@
 {
     "patches": [
         {
-            "id": "update_1.1.0",
-            "name": "Actualizacion a v1.1.0",
-            "description": "Actualiza pantallas y contenido",
-            "version": "1.2.0", 
+            "id": "update_1.2.0",
+            "name": "Actualización a v1.2.0",
+            "description": "Nuevas características y mejoras",
+            "version": "1.2.0",
             "min_version": "1.1.0",
             "type": "update",
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.zip",
@@ -20,11 +20,43 @@
                 ],
                 "summary": [
                     "Actualiza pantallas principales",
-                    "Anade nuevo menu DLC"
+                    "Añade nuevo menu DLC",
+                    "Nuevo sistema de logros"
                 ]
             }
         }
+    ],
+    "version_history": [
+        {
+            "version": "1.2.0",
+            "release_date": "2024-01-15",
+            "changes": [
+                "Nuevo sistema de logros",
+                "Mejoras en la interfaz de usuario", 
+                "Corrección de errores menores",
+                "Optimización de rendimiento"
+            ],
+            "patch_notes": "Esta actualización introduce un sistema completo de logros y diversas mejoras en la experiencia del usuario."
+        },
+        {
+            "version": "1.1.0",
+            "release_date": "2024-01-10",
+            "changes": [
+                "Menú DLC integrado",
+                "Nuevas pantallas de configuración",
+                "Sistema de parches automático"
+            ],
+            "patch_notes": "Implementación del sistema DLC y mejoras en la interfaz."
+        },
+        {
+            "version": "1.0.0",
+            "release_date": "2024-01-01", 
+            "changes": [
+                "Versión inicial del juego",
+                "Historia principal completa",
+                "Sistema básico de guardado"
+            ],
+            "patch_notes": "Lanzamiento inicial con todas las funciones básicas."
+        }
     ]
 }
-
-
