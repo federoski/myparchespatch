@@ -27,12 +27,13 @@
             }
         }
     ],
+    "version_history": [
         {
             "version": "1.1.0",
             "release_date": "20/11/25",
             "changes": [
                 "Menú DLC",
-                "Menú Capítulos",
+                "Menú Capítulos"
             ],
             "patch_notes": "Implementación del sistema DLC y mejoras en la interfaz."
         },
@@ -46,9 +47,5 @@
             ],
             "patch_notes": "Lanzamiento oficial."
         }
+    ]
 }
-
-
-
-
-
