@@ -30,7 +30,7 @@
             "version": "1.1.0",
             "release_date": "20/11/25",
             "changes": [
-                "Menú DLC",
+                "Menú Expansiones",
                 "Menú Capítulos"
             ],
             "patch_notes": "Implementación del menú expansión y del menú capítulos."
@@ -47,5 +47,6 @@
         }
     ]
 }
+
 
 
