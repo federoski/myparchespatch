@@ -33,7 +33,7 @@
                 "Menú DLC",
                 "Menú Capítulos"
             ],
-            "patch_notes": "Implementación del sistema DLC y mejoras en la interfaz."
+            "patch_notes": "Implementación del menú expansión y del menú capítulos."
         },
         {
             "version": "1.0.0",
@@ -47,4 +47,5 @@
         }
     ]
 }
+
 
