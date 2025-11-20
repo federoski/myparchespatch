@@ -2,7 +2,7 @@
     "patches": [
         {
             "id": "update_1.2.0",
-            "name": "Versión 1.1.0",
+            "name": "Versión 1.1.1",
             "description": "Nuevas características y mejoras",
             "version": "1.1.0",
             "min_version": "1.0.0",
@@ -27,6 +27,18 @@
     ],
     "version_history": [
         {
+            "version": "1.1.1",
+            "release_date": "20/11/25",
+            "changes": [
+                "Menú Extras",
+                "Fichas personaje",
+                "Galería",
+                "Borrar partida",
+                "Y más opciones"
+            ],
+            "patch_notes": "Implementación del menú extras con varias opciones."
+        },
+        {
             "version": "1.1.0",
             "release_date": "20/11/25",
             "changes": [
@@ -47,6 +59,7 @@
         }
     ]
 }
+
 
 
 
