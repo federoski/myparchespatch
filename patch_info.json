@@ -7,7 +7,7 @@
             "version": "1.5",
             "min_version": "1.0.0",
             "type": "update",
-            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.zip",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.5.zip",
             "changes": {
                 "replace_files": [
                     "game"
@@ -63,6 +63,7 @@
         }
     ]
 }
+
 
 
 
