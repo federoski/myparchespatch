@@ -1,33 +1,33 @@
 {
     "patches": [
         {
-            "id": "update_1.5.0",
-            "name": "Actualizacion 1.5",
-            "description": "Arreglos, añadidos y mejoras.",
-            "version": "1.5",
+            "id": "update_1.6.0",
+            "name": "Actualizacion 1.6",
+            "description": "Menu extras activado.",
+            "version": "1.6",
             "min_version": "1.0.0",
             "type": "update",
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.5.zip",
             "changes": {
                 "replace_files": [
-                    "game"
+                    "game/"
                 ],
                 "add_files": [],
                 "run_scripts": [
                     "install_dlc.py"
                 ],
                 "summary": [
-                    "Ver cambios en Historial"
+                    "Menú extras activado"
                 ]
             }
         }
     ],
     "version_history": [
         {
-            "version": "1.5",
+            "version": "1.6",
             "release_date": "11/03/26",
             "changes": [
-                "Menu extras"
+                "Menú extras activado"
             ]
         },
         {
