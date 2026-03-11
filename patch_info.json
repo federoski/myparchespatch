@@ -1,6 +1,71 @@
 {
     "patches": [
         {
+            "id": "update_1.7.0",
+            "name": "Actualizacion 1.7",
+            "description": "Actos activado.",
+            "version": "1.7",
+            "min_version": "1.0.0",
+            "type": "update",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.7.zip",
+            "changes": {
+                "replace_files": [
+                    "game/"
+                ],
+                "add_files": [],
+                "run_scripts": [
+                    "install_dlc.py"
+                ],
+                "summary": [
+                    "Menú actos activado"
+                ]
+            }
+        }
+    ],
+    "version_history": [
+        {
+            "version": "1.6",
+            "release_date": "11/03/26",
+            "changes": [
+                "Menú actos activado"
+            ]
+        },
+        {
+            "version": "1.1.1",
+            "release_date": "20/11/25",
+            "changes": [
+                "Menú Extras",
+                "Fichas personaje",
+                "Galería",
+                "Borrar partida",
+                "Y más opciones"
+            ],
+            "patch_notes": "Implementación del menú extras con varias opciones."
+        },
+        {
+            "version": "1.1.0",
+            "release_date": "20/11/25",
+            "changes": [
+                "Menú Expansiones",
+                "Menú Capítulos"
+            ],
+            "patch_notes": "Implementación del menú expansión y del menú capítulos."
+        },
+        {
+            "version": "1.0.0",
+            "release_date": "05/11/25",
+            "changes": [
+                "Versión inicial del juego",
+                "El orfanato completado",
+                "Sistema de logros implementado"
+            ],
+            "patch_notes": "Lanzamiento oficial."
+        }
+    ]
+}
+{
+    "patches": [
+        {
             "id": "update_1.6.0",
             "name": "Actualizacion 1.6",
             "description": "Menu extras activado.",
@@ -63,3 +128,4 @@
         }
     ]
 }
+
