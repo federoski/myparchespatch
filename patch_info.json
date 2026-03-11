@@ -1,13 +1,13 @@
 {
     "patches": [
         {
-            "id": "update_1.8.0",
-            "name": "Actualizacion 1.8",
-            "description": "Número de versión implementado.",
-            "version": "1.8",
+            "id": "update_1.9.0",
+            "name": "Actualizacion 1.9",
+            "description": "Versión del juego implementada en menú.",
+            "version": "1.9",
             "min_version": "1.0.0",
             "type": "update",
-            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.8.zip",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.9.zip",
             "changes": {
                 "replace_files": [
                     "game/"
@@ -17,18 +17,25 @@
                     "install_dlc.py"
                 ],
                 "summary": [
-                    "Menú actos activado"
+                    "Versión del juego visible en menú"
                 ]
             }
         }
     ],
     "version_history": [
-         {
+        {
+            "version": "1.9",
+            "release_date": "2026-03-11",
+            "changes": [
+                "Versión del juego implementada en menú principal",
+                "Número de versión visible"
+            ]
+        },
+        {
             "version": "1.8",
             "release_date": "2026-03-11",
             "changes": [
-                "Menú almas implementado",
-                "Menu de versión implementado"
+                "Menú almas implementado"
             ]
         },
         {
@@ -37,7 +44,7 @@
             "changes": [
                 "Menú actos activado",
                 "Juego rehecho",
-                "Menu sistema"
+                "Menú sistema"
             ]
         },
         {
@@ -45,7 +52,7 @@
             "release_date": "2025-11-20",
             "changes": [
                 "Borrar partida",
-                "tienda contenido implementado"
+                "Tienda contenido implementado"
             ],
             "patch_notes": "Implementación de opción de borrar partidas."
         },
