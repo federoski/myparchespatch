@@ -12,8 +12,7 @@
                 "replace_files": [
                     "game"
                 ],
-                "add_files": [
-                ],
+                "add_files": [],
                 "run_scripts": [
                     "install_dlc.py"
                 ],
@@ -28,8 +27,8 @@
             "version": "1.5",
             "release_date": "11/03/26",
             "changes": [
-                "Menu extras",
-            ],
+                "Menu extras"
+            ]
         },
         {
             "version": "1.1.1",
@@ -64,14 +63,3 @@
         }
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
