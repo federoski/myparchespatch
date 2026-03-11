@@ -1,13 +1,13 @@
 {
     "patches": [
         {
-            "id": "update_1.9.0",
-            "name": "Actualizacion 1.9",
+            "id": "update_2.0.0",
+            "name": "Actualizacion 2.0",
             "description": "Versión del juego implementada en menú.",
             "version": "1.9",
             "min_version": "1.0.0",
             "type": "update",
-            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.9.zip",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion2.zip",
             "changes": {
                 "replace_files": [
                     "game/"
@@ -75,3 +75,4 @@
         }
     ]
 }
+
