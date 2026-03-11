@@ -4,7 +4,7 @@
             "id": "update_2.0.0",
             "name": "Actualizacion 2.0",
             "description": "Versión del juego implementada en menú.",
-            "version": "1.9",
+            "version": "2.0",
             "min_version": "1.0.0",
             "type": "update",
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion2.zip",
@@ -24,7 +24,7 @@
     ],
     "version_history": [
         {
-            "version": "1.9",
+            "version": "2.0",
             "release_date": "2026-03-11",
             "changes": [
                 "Versión del juego implementada en menú principal",
@@ -75,4 +75,5 @@
         }
     ]
 }
+
 
