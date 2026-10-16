@@ -6,8 +6,11 @@
             "title": "Actualización 1",
             "patch_notes": "Primera actualización de Grita tu nombre.",
             "changes": [
-                "Correcciones y mejoras generales",
-                "Contenido adicional"
+                "Capítulos 1-3 completos",
+                "Capítulo 4 prueba",
+                "Sistema de logros",
+                "Extras",
+
             ]
         },
         {
@@ -16,10 +19,7 @@
             "title": "Lanzamiento inicial",
             "patch_notes": "Primera versión pública del juego.",
             "changes": [
-                "Capítulos 1-4 completos",
-                "Sistema de logros",
-                "Diccionario y tablón",
-                "Archivo de la torre"
+            "Juego no funcional, actualizar"
             ]
         }
     ],
