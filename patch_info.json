@@ -28,7 +28,7 @@
         {
             "id": "capitulo_5_test",
             "name": "Capítulo 5: La sombra (TEST)",
-            "description": "Añade el Capítulo 5 con Rin y Tsubasa. Este es un parche de prueba.",
+            "description": "Prueba de actualizacion.",
             "type": "content",
             "min_version": "0.1",
             "version": "0.2",
