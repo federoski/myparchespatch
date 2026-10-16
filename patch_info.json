@@ -13,15 +13,6 @@
 
             ]
         },
-        {
-            "version": "0.1",
-            "release_date": "2026-10-16",
-            "title": "Lanzamiento inicial",
-            "patch_notes": "Primera versión pública del juego.",
-            "changes": [
-            "Juego no funcional, actualizar"
-            ]
-        }
     ],
     "patches": [
         {
