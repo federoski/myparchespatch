@@ -46,7 +46,7 @@
             "type": "content",
             "min_version": "0.1",
             "version": "0.2",
-            "download_url": "https://github.com/federoski/myparchespatch/raw/main/capitulo_5.zip",
+            "download_url": "https://github.com/federoski/myparchespatch/raw/main/capitulo_5_test.zip",
             "changes": {
                 "summary": [
                     "Nuevo capítulo jugable",
