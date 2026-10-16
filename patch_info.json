@@ -1,57 +1,40 @@
 {
     "version_history": [
         {
-            "version": "0.3",
-            "release_date": "2026-10-24",
-            "title": "Capítulo 6: El vacío",
-            "patch_notes": "Añadido el Capítulo 6 con Ayame e Hiro.",
+            "version": "0.2",
+            "release_date": "2026-10-16",
+            "title": "Actualización 1",
+            "patch_notes": "Primera actualización de Grita tu nombre.",
             "changes": [
-                "Nuevo capítulo jugable",
-                "4 nuevos finales",
-                "Nuevo minijuego"
+                "Correcciones y mejoras generales",
+                "Contenido adicional"
             ]
         },
         {
-            "version": "0.2",
-            "release_date": "2026-10-17",
-            "title": "Capítulo 5: La sombra",
-            "patch_notes": "Añadido el Capítulo 5 con Rin y Tsubasa.",
+            "version": "0.1",
+            "release_date": "2026-10-16",
+            "title": "Lanzamiento inicial",
+            "patch_notes": "Primera versión pública del juego.",
             "changes": [
-                "Nuevo capítulo jugable",
-                "4 nuevos finales",
-                "Nuevo minijuego"
+                "Capítulos 1-4 completos",
+                "Sistema de logros",
+                "Diccionario y tablón",
+                "Archivo de la torre"
             ]
         }
     ],
     "patches": [
         {
-            "id": "capitulo_6",
-            "name": "Capítulo 6: El vacío",
-            "description": "Añade el Capítulo 6 con Ayame e Hiro.",
-            "type": "content",
-            "min_version": "0.2",
-            "version": "0.3",
-            "download_url": "https://github.com/federoski/myparchespatch/raw/main/actualizacion_1.zip",
-            "changes": {
-                "summary": [
-                    "Nuevo capítulo jugable",
-                    "4 nuevos finales"
-                ]
-            }
-        },
-        {
-            "id": "capitulo_5",
-            "name": "Capítulo 5: La sombra",
-            "description": "Añade el Capítulo 5 con Rin y Tsubasa.",
+            "id": "actualizacion_1",
+            "name": "Actualización 1",
+            "description": "Primera actualización oficial de Grita tu nombre.",
             "type": "content",
             "min_version": "0.1",
             "version": "0.2",
-            "download_url": "https://github.com/federoski/myparchespatch/raw/main/capitulo_5_test.zip",
+            "download_url": "https://github.com/federoski/myparchespatch/raw/main/actualizacion_1.zip",
             "changes": {
                 "summary": [
-                    "Nuevo capítulo jugable",
-                    "4 nuevos finales",
-                    "Nuevo minijuego"
+                    "Correcciones y mejoras generales",
                 ]
             }
         }
