@@ -18,7 +18,7 @@
         {
             "id": "actualizacion_1",
             "name": "Actualización 1",
-            "description": "Primera actualización oficial de Grita tu nombre.",
+            "description": "Actualización obligatoria.",
             "type": "content",
             "min_version": "0.1",
             "version": "0.2",
