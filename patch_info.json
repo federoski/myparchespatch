@@ -2,9 +2,9 @@
     "version_history": [
         {
             "version": "0.1",
-            "release_date": "2026-10-16",
+            "release_date": "28-09-2026",
             "title": "Lanzamiento inicial",
-            "patch_notes": "Primera versión pública de Grita tu nombre.",
+            "patch_notes": "Primera versión de Grita tu nombre.",
             "changes": [
                 "Capítulos 1-4 completos",
                 "Sistema de logros",
@@ -15,8 +15,8 @@
         {
             "version": "0.2",
             "release_date": "2026-10-20",
-            "title": "Capítulo 5: La sombra",
-            "patch_notes": "Añadido el Capítulo 5 con Rin y Tsubasa.",
+            "title": "Añadidos y más",
+            "patch_notes": "Añadido el Capítulo 5.",
             "changes": [
                 "Nuevo capítulo jugable",
                 "4 nuevos finales",
