@@ -12,6 +12,23 @@
                 "Sistema de logros",
                 "Extras"
             ]
+        },
+        {
+            "version": "0.3",
+            "release_date": "2026-10-18",
+            "title": "Actualización 2",
+            "patch_notes": "Segunda actualización de Grita tu nombre.",
+            "changes": [
+                "Capítulos 5 y 6 completos",
+                "Capítulo 7 — La máscara",
+                "Capítulo 8 — El reflejo",
+                "Nuevo minijuego de versos)",
+                "Logros de los capítulos 7 y 8",
+                "Diccionario actualizado",
+                "Tablón actualizado",
+                "Bestiario actualizado",
+                "Sistema de pesos narrativos entre capítulos"
+            ]
         }
     ],
     "patches": [
@@ -30,6 +47,28 @@
                     "Capítulo 4 prueba",
                     "Sistema de logros",
                     "Extras"
+                ]
+            }
+        },
+        {
+            "id": "actualizacion_2",
+            "name": "Actualización 2",
+            "description": "Segunda actualización obligatoria.",
+            "type": "content",
+            "min_version": "0.2",
+            "version": "0.3",
+            "download_url": "https://github.com/federoski/myparchespatch/raw/main/actualizacion_2.zip",
+            "changes": {
+                "summary": [
+                    "Capítulos 5 y 6 completos",
+                    "Capítulo 7 — La máscara",
+                    "Capítulo 8 — El reflejo",
+                    "Nuevo minijuego de versos",
+                    "Logros de los capítulos 7 y 8",
+                    "Diccionario actualizado",
+                    "Tablón actualizado",
+                    "Bestiario actualizado",
+                    "Sistema de pesos narrativos entre capítulos"
                 ]
             }
         }
